@@ -1,3 +1,3 @@
 a = 7
-b = 3
+b = 8
 print(max(a, b))
